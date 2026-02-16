@@ -68,27 +68,34 @@ CREATE TABLE complaints (
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 ```
-🌊 The Workflow Explained
-Citizen Action: A user logs in, snaps a photo of an issue, and submits it with GPS coordinates.
+---
 
-AI/System Processing: The report is categorized (e.g., "Road Damage") and routed to the correct department.
+## 🌊 System Workflow: From Report to Resolution
 
-Community Validation: Other local residents can upvote the issue or leave comments to provide more context.
+The platform operates through a structured lifecycle to ensure no community issue goes unnoticed:
 
-Admin Resolution: Officials view the queue, assign staff, and update the status. The citizen receives a real-time update on their dashboard.
-🚀 How to Use It
-👤 For Citizens
-Sign Up: Create an account and select your local Ward.
+1. **Citizen Action:** A user logs in, captures a photo of the local issue, and submits it along with precise GPS coordinates.
+2. **System Processing:** The platform categorizes the report (e.g., "Road Damage") and routes it to the appropriate municipal department.
+3. **Community Validation:** Local residents can upvote the issue to indicate priority or add comments to provide further context.
+4. **Admin Resolution:** Officials review the queue, assign staff, and update the status. The citizen receives real-time updates directly on their dashboard.
 
-Report: Hit the "+" button, upload a photo, and describe the problem.
+---
 
-Track: Check your Dashboard to see the progress of your ticket.
+## 🚀 How to Use the Platform
 
-🛡️ For Admins
-Login: Access the /admin portal.
+### 👤 For Citizens
+* **Sign Up:** Create your account and select your local **Ward** to get started.
+* **Report:** Click the **"+" (New Complaint)** button, upload a photo, and provide a brief description.
+* **Track:** Monitor your **Personal Dashboard** to see your ticket progress in real-time.
 
-Manage: View the complaints queue and assign tasks to departments like "Waste Management" or "Traffic".
+### 🛡️ For Administrators
+* **Login:** Authorized officials access the secure **Admin Portal**.
+* **Manage:** Review the incoming queue to update statuses or assign tasks to departments like **Waste Management** or **Traffic**.
+* **Analyze:** Utilize the **Analytics Tab** to track monthly resolution rates and identify ward-wise hotspots.
 
-Analyze: Use the Analytics tab to view monthly resolution rates and ward performance.
+---
 
-Developed with ❤️ by Surabhi BP
+<p align="center">
+  <b>Developed with ❤️ by Surabhi BP</b><br>
+  <i>3rd Year AIML Student | BGS College of Engineering and Technology</i>
+</p>
