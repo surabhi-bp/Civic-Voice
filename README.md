@@ -25,11 +25,10 @@ From discovery to detailed reporting, the citizen interface is built for speed a
 | ![Landing Page](https://github.com/user-attachments/assets/698291f3-84f6-4627-91be-cc3f01126dd1) | ![Report Issue](https://github.com/user-attachments/assets/d0b11c26-0328-4a82-b659-60ce3fda47ec) |
 | *Modern hero section showcasing core platform value.* | *Detailed form with photo upload and GPS location mapping.* |
 
-| **My Dashboard** | **Citizen Login** |
+| **Citizen Login** | **My Dashboard** |
 | :---: | :---: |
-| ![Dashboard](https://github.com/user-attachments/assets/39762adc-3a11-4ece-9870-0a97f9ed7722) | ![Login](https://github.com/user-attachments/assets/b6eb0761-0139-4572-b6b1-41b6573b5dba). |
-| *Real-time tracking of submitted complaints and personal stats.* | *Secure authentication for residents.* |
-
+| ![Login](https://github.com/user-attachments/assets/39762adc-3a11-4ece-9870-0a97f9ed7722) | ![Dashboard](https://github.com/user-attachments/assets/b6eb0761-0139-4572-b6b1-41b6573b5dba) |
+| *Secure authentication for residents.* | *Real-time tracking of submitted complaints and personal stats.* |
 ---
 
 ### 2. The Administrator Portal
